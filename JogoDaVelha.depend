@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624992826 source:c:\users\tonyc\onedrive\documentos\projetos\c-c++\aula156-167_jogodavelha\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+
